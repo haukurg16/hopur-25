@@ -12538,23 +12538,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Jón Grímsson\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Julius Halldorsson\\.nuget\\packages\\": {},
+>>>>>>> c46afd17872d9266cb9768e096a0cb9b4dc968b6
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Jón Grímsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
       "projectName": "BookCave",
       "projectPath": "C:\\Users\\Jón Grímsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
       "packagesPath": "C:\\Users\\Jón Grímsson\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jón Grímsson\\Documents\\GitHub\\verkleg\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
+      "projectName": "BookCave",
+      "projectPath": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
+      "packagesPath": "C:\\Users\\Julius Halldorsson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\obj\\",
+>>>>>>> c46afd17872d9266cb9768e096a0cb9b4dc968b6
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Jón Grímsson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "C:\\Users\\Julius Halldorsson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> c46afd17872d9266cb9768e096a0cb9b4dc968b6
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
