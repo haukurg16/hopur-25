@@ -31,24 +31,6 @@ namespace BookCave.Migrations
 
                     b.ToTable("Authors");
                 });
-
-            modelBuilder.Entity("BookCave.Data.EntityModels.Book", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<int>("AuthorId");
-
-                    b.Property<string>("Genre");
-
-                    b.Property<int>("ReleseYear");
-
-                    b.Property<string>("Title");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Books");
-                });
 #pragma warning restore 612, 618
         }
     }
