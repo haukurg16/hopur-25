@@ -12538,40 +12538,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Julius Halldorsson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-=======
     "/Users/halldoralvarkjartansson/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
->>>>>>> c4f290f60cfc5a144afd19f3446cd69e0e9fce60
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
-      "projectName": "BookCave",
-      "projectPath": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\BookCave.csproj",
-      "packagesPath": "C:\\Users\\Julius Halldorsson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julius Halldorsson\\Documents\\GitHub\\verkleg\\obj\\",
-=======
       "projectUniqueName": "/Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/BookCave.csproj",
       "projectName": "BookCave",
       "projectPath": "/Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/BookCave.csproj",
       "packagesPath": "/Users/halldoralvarkjartansson/.nuget/packages/",
       "outputPath": "/Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/obj/",
->>>>>>> c4f290f60cfc5a144afd19f3446cd69e0e9fce60
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Julius Halldorsson\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
         "/Users/halldoralvarkjartansson/.nuget/NuGet/NuGet.Config"
->>>>>>> c4f290f60cfc5a144afd19f3446cd69e0e9fce60
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12614,5 +12597,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/obj/BookCave.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
