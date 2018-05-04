@@ -9,29 +9,27 @@
 /Users/haukurgudmundsson/Desktop/BookCave/obj/Debug/netcoreapp2.0/BookCave.dll
 /Users/haukurgudmundsson/Desktop/BookCave/obj/Debug/netcoreapp2.0/BookCave.pdb
 <<<<<<< HEAD
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.deps.json
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.runtimeconfig.json
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.runtimeconfig.dev.json
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.dll
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.pdb
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.csproj.CoreCompileInputs.cache
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.AssemblyInfoInputs.cache
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.AssemblyInfo.cs
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.dll
-C:\Users\Jón Grímsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.pdb
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.deps.json
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.json
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.dev.json
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.dll
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.pdb
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.csproj.CoreCompileInputs.cache
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.AssemblyInfoInputs.cache
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.AssemblyInfo.cs
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.dll
+C:/Users/Jón Grímsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.pdb
 =======
-<<<<<<< HEAD
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.deps.json
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.runtimeconfig.json
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.runtimeconfig.dev.json
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.dll
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\bin\Debug\netcoreapp2.0\BookCave.pdb
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.csproj.CoreCompileInputs.cache
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.AssemblyInfoInputs.cache
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.AssemblyInfo.cs
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.dll
-C:\Users\Julius Halldorsson\Documents\GitHub\verkleg\obj\Debug\netcoreapp2.0\BookCave.pdb
-=======
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.deps.json
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.json
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.dev.json
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.dll
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/bin/Debug/netcoreapp2.0/BookCave.pdb
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.csproj.CoreCompileInputs.cache
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.AssemblyInfoInputs.cache
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.AssemblyInfo.cs
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.dll
+C:/Users/Julius Halldorsson/Documents/GitHub/verkleg/obj/Debug/netcoreapp2.0/BookCave.pdb
 /Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/bin/Debug/netcoreapp2.0/BookCave.deps.json
 /Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.json
 /Users/halldoralvarkjartansson/Desktop/Skóli/2 önn/Verklegt/verkleg/bin/Debug/netcoreapp2.0/BookCave.runtimeconfig.dev.json
