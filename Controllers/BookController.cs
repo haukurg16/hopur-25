@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,18 +9,21 @@ using BookCave.Services;
 
 namespace BookCave.Controllers
 {
-    public class HomeController : Controller
+    public class BookController : Controller
     {
-        private AuthorService _authorService;
+        private BookService _bookService;
 
-        public HomeController()
+        public BookController()
         {
-            _authorService = new AuthorService();
+            _bookService = new BookService();
         }
         public IActionResult Index()
         {
-            var authors = _authorService.GetAllAuthors();
-            return View(authors);
+            var books = _bookService.GetAllBooks();
+            return View(books);
         }
+
+       
     }
+
 }
