@@ -17,3 +17,7 @@
 *.props
 *.dll
 *.pdb
+*.cache
+*.dll
+*.cache
+*.pdb
