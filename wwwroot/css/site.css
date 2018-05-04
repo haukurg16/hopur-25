@@ -33,3 +33,20 @@
         display: none;
     }
 }
+
+#footer-copyright {
+    float: right;
+}
+
+.container {
+    height: 75px;
+}
+
+.navbar-brand {
+    border: 2px solid black;
+}
+
+.navbar-brand img {
+    height: 54px;
+    width: 225px;
+}
