@@ -11,3 +11,9 @@
 *.txt
 *.cache
 *.targets
+*.pdb
+*.pdb
+*.targets
+*.props
+*.dll
+*.pdb
